@@ -1,0 +1,14 @@
+Data mining
+	Gathering data of traffic violations and weather from csv files
+Data cleaning and organizing
+	Removing broken datapoints and choosing relevant variables
+Converting given coordinates to mean points
+	Location is given as a grid in metadata
+Mapping traffic violations
+Relations between weather and the number of traffic violations
+	More violations means higher risk behavior
+Converting map coordinates onto grid
+	Choosing the area of intrest and dividing it into grid and seeing how much violations each grid has
+	Conversion of coordinates
+Heatmap of traffic violations
+
