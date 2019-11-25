@@ -1,0 +1,29 @@
+6478000, 656000 - ülemine vasak nurk
+6470000, 656000 - alumine vasak nurk
+6470000, 664000 - alumine parem nurk
+6478000, 664000 - ülemine parem nurk
+
+koordinaadid on süsteemis x, y
+x - liikumine vertikaalsuunas
+y - liikumine horisontaalsuuans
+
+Kirjeldatud nurkadega ruudustik on suuruses 8x8 (x->y)
+
+Märkused:
+
+Ülemise vasaku nurga juures jääb välja marginaalne osa Tartu linnast, kus on madala
+kasutusega autotee tööstusrajoonis
+	- Võib proovida kontrollida, kas selles väljajäävas alas ka reaalselt on midagi
+
+Alumise vasaku nurga juures jääb välja ala, mis algab Võru tn otsas oleva bussipeatusega
+ja lõppeb reoveepuhastusjaamaga
+	- Enamus alast on eramutega kaetud ala, bussipeatuse juures olevat ala tuleb
+	  üle kontrollida
+
+Alumise parema nurga pool jääb välja tühermaaga kaetud ala (ainult jalgrada märgitud)
+
+Ülemise parema nurga juurde jääb linna kuju tõttu ala, kus 14 ruudu sees ei ole
+Tartu linna. Võib sisse kuvada, sellisel juhul lihtsam tegutseda, samas võimalik ka
+välja jätta
+
+Ühe ruudu külg 1 km
