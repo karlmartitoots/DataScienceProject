@@ -1,11 +1,13 @@
 # DataScienceProject 
-Datascientific analysis of traffic behavior dependence on location and weather in Tartu, Estonia
+Datascientific analysis of traffic behavior dependence on time, location and weather conditions in Tartu, Estonia
 
 # Getting Started
 
+The main part of the project is the Jupyter notebook file [DataScienceProject](https://nbviewer.jupyter.org/github/karlmartitoots/DataScienceProject/blob/master/Data%20science%20project.ipynb).
+
 ## Prerequisites
 
-Jupyter Notebook with python 3.0 interpreter
+Jupyter Notebook with python 3.0 interpreter is required to access and make changes to the DataScienceProject file. 
 
 # Project task list
 | <h3> Description of the task and subtasks </h3> | <h3> Time estimation <br> (per team member) </h3> |
